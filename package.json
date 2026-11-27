@@ -1,0 +1,8 @@
+{
+  "name": "space-trapp-server",
+  "version": "1.0.0",
+  "description": "Servidor do jogo Space Trapp (contas, login e save online)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
